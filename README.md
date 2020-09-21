@@ -4,5 +4,5 @@ Three different hyperelastic models are included: Linear elasticity, St-Venant K
 Conjugate gradient method for solving linear equations is included.
 The results of rest-state grid positions are written to Houdini-compatible obj files.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/FCN1.png" width="50%" >
+  <img src="https://github.com/YushanH/Quasistatic-FEM/blob/master/result.png" width="50%" >
 </p>
